@@ -1,5 +1,6 @@
 # Barcelona-Squad-History-Analysis
- Key Analyses Performed
+##Key Analyses Performed : 
+
 🔢 Age Distribution (2022/2023)
 Visualized how player ages were spread during the 2022/23 season.
 
